@@ -1,0 +1,15 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  line-height: 25px;
+  color: #053c45;
+  font-size: 27px;
+}
+
+.blue {
+  color: #0cb8fd;
+}
+
+.italic {
+  font-style: italic;
+}

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+:root {
+  /*mobile*/
+  /*header*/
+  --header-item-title-color: #053c45;
+  --header-btn-register-backround: #0cb8fd;
+  --header-btn-register-color: #ffffff;
+  --header-btn-login1-backround: #ffffff;
+  --header-btn-login1-color: #0cb8fd;
+  --header-btn-login1-border: #0cb8fd;
+  /*login*/
+  --login-item-background: #0cb8fd;
+  --login-item-title-color: #ffffff;
+  --login-background: #ffffff;
+  --login-btn-login2-backround: #0cb8fd;
+  --login-btn-login2-color: #ffffff;
+  /*checknumber*/
+  --checknumber-btn-backroung: #0cb8fd;
+  --checknumber-btn-color: #ffffff;
+  /*profil*/
+  --profil-backround: #0cb8fd;
+  --profil-card-backround: #ffffff;
+  --profil-item-background: #ffffff;
+  --profil-item-title-color: #0cb8fd;
+  --profil-btn-picture-backround: #ffffff;
+  --profil-btn-picture-backround: #0cb8fd;
+  --profil-card-info-backround: #ffffff;
+  --profil-card-icon-color: #0cb8fd;
+  /*id*/
+  --id-btn-backround: #0cb8fd;
+  --id-btn-color: #ffffff;
+  /*preferences*/
+  --preferences-btn-backround: #0cb8fd;
+  --preferences-btn-color: #ffffff;
+  /*angels*/
+  --angels-btn-backround: #0cb8fd;
+  --angels-btn-color: #ffffff;
+  /*path*/
+  --path-btn-backround: #0cb8fd;
+  --path-btn-color: #ffffff;
+  --path-card-backround: #9e9e9e;
+  --path-card-trash-backround: #ff5a5a;
+  --path-item-trash-icon-backround: #ffffff;
+  --path-btn-delete-true: #0acf83;
+  --path-btn-delete-false: #ff5a5a;
+  --path-input-backround: #f0f0f0;
+  --path-btn-date-active-backround: #0cb8fd;
+  --path-btn-date-disabled-backround: #0acf83;
+  --path-btn-date-color: #ffffff;
+  --path-btn-join-backround: #0acf83;
+  --path-btn-join-color: #ffffff;
+  /*copylot*/
+  --copylot-card-backround: #ebebeb;
+  --copylot-card-border-disabled: #0cb8fd;
+  --copylot-item-icon-active: #c7c7c7;
+  --copylot-item-icon-disabled: #0cb8fd;
+  /*notification*/
+  --notification-btn-backround: #0cb8fd;
+  --notification-btn-color: #ffffff;
+  --notification-card-backround: #9e9e9e;
+  --notification-item-icon-backround: #0cb8fd;
+  /*favicon*/
+  --favicon-item-active-backround: #d8d8d8;
+  --favicon-item-active-disabled: #ffc90b;
+  /*arrow*/
+  --arrow-item-icon-color: #0cb8fd;
+  /*footer*/
+  --footer-card-backround: #ffffff;
+  --footer-card-icon-active-color: #8a8a8a;
+  --footer-card-icon-disabled-color: #0cb8fd;
+  /* fonts */
+  --poppins: ‘Poppins’, sans-serif;
+}
+
+.leaflet-routing-container {
+  display: none;
+}
