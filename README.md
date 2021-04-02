@@ -70,9 +70,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/WildCodeSchool/nts-js-202009-p3-backend-pylot.git
-   ```
+
 2. Install NPM packages
    ```sh
    npm install
