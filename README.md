@@ -28,17 +28,9 @@
 
 ## About The Project
 
-Pylot est une application qui a pour objectif de permettre aux étudiants et aux jeunes professionnels de rentrer chez eux, de manière collaborative, fun et sécurisée en utilisant les moyens de transport habituels (à pied, en bus, en tram commun, en vélo, en voiture). Concrètement, nous mettons en relation les personnes qui rentrent dans la même direction, pour se déplacer ensemble.
-
-# Pylot
-
-## Déploiement:
-
-<https://nts-js-202009-p3-frontend-pylot.jsrover.wilders.dev/>
-
-## Contexte:
-
 En formation de développeur web à la _WILD CODE SCHOOL_ de Nantes, notre groupe s'est vu confier la mission de réaliser une Progressive Web App permettant de mettre en relation des personnes qui veulent rentrer accompagnées. Ce projet s'est déroulé pendant 6 semaines, en parallèle des cours et en remote (dû à la situation sanitaire).
+
+Pylot est une application qui a pour objectif de permettre aux étudiants et aux jeunes professionnels de rentrer chez eux, de manière collaborative, fun et sécurisée en utilisant les moyens de transport habituels (à pied, en bus, en tram commun, en vélo, en voiture). Concrètement, nous mettons en relation les personnes qui rentrent dans la même direction, pour se déplacer ensemble.
 
 ## Fonctionnalités:
 
