@@ -42,9 +42,34 @@ Les fonctionnalités :
 
 ### Built With
 
-- [Node](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MySql](https://www.mysql.com/)
+libraries
+
+- React.js
+- Material-ui
+- React Leaflet
+- lrm-google
+- workbox
+
+API
+
+- adresse.data.gouv
+- Open Street Map
+
+tools
+
+- Figma
+- ESLint config airbnb
+- prettier
+- Husky
+- Github actions
+
+L'équipe
+
+- Nicolas Mercier. [Github](https://github.com/nicholas570) [Linkedin](https://www.linkedin.com/in/nicolas-mercier-80ba1232/)
+- Gwenvaël Laskar. [Github](https://github.com/rouxxi) [Linkedin](https://www.linkedin.com/in/gwenvael-laskar-39096a1b8/)
+- Alice Audureau. [Github](https://github.com/Alice-Audureau) [Linkedin](https://www.linkedin.com/in/alice-audureau-11a0471ba/)
+- Fanny Debrabant. [Github](https://github.com/fdebrabant) [Linkedin](https://www.linkedin.com/in/fanny-debrabant/)
+- Loïc Bodolec. [Github](https://github.com/loicbdev) [Linkedin](https://www.linkedin.com/in/loic-bodolec/)
 
 <!-- GETTING STARTED -->
 
