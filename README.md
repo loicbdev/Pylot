@@ -32,9 +32,9 @@ En formation de développeur web à la _WILD CODE SCHOOL_ de Nantes, notre group
 
 Pylot est une application qui a pour objectif de permettre aux étudiants et aux jeunes professionnels de rentrer chez eux, de manière collaborative, fun et sécurisée en utilisant les moyens de transport habituels (à pied, en bus, en tram commun, en vélo, en voiture). Concrètement, nous mettons en relation les personnes qui rentrent dans la même direction, pour se déplacer ensemble.
 
-## Fonctionnalités:
+Les fonctionnalités :
 
-- Créer un compte utilisateur securisé.
+- Créer un compte utilisateur sécurisé.
 - Personnaliser son profil.
 - Se géolocaliser.
 - Tracer un itinéraire.
