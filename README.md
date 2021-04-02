@@ -1,6 +1,6 @@
 # Pylot
 
-### deployment : <https://nts-js-202009-p3-frontend-pylot.jsrover.wilders.dev/>
+### [DEPLOYMENT](https://nts-js-202009-p3-frontend-pylot.jsrover.wilders.dev/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -42,7 +42,7 @@ Les fonctionnalités :
 
 ### Built With
 
-libraries
+Libraries
 
 - React.js
 - Material-ui
@@ -55,7 +55,7 @@ API
 - adresse.data.gouv
 - Open Street Map
 
-tools
+Tools
 
 - Figma
 - ESLint config airbnb
