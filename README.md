@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    $ mysql -u root -p
    mysql> CREATE DATABASE [new_database];
-   $ mysql -u username -p new_database < pylot_dump.sql
+   $ mysql -u username -p new_database < pylot.sql
    ```
 4. Run the server
    ```sh
