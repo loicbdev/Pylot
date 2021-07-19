@@ -28,17 +28,17 @@
 
 ## About The Project
 
-En formation de développeur web à la _WILD CODE SCHOOL_ de Nantes, notre groupe s'est vu confier la mission de réaliser une application web permettant de mettre en relation des personnes qui veulent rentrer accompagnées. Ce projet s'est déroulé pendant 6 semaines, en parallèle des cours et en remote (dû à la situation sanitaire).
+In web developer training at WILD CODE SCHOOL in Nantes, our group was entrusted with the mission of creating a web application allowing to connect people who want to go back home accompanied. This project took place for 6 weeks, in parallel with the lessons and in remote (due to the health situation).
 
-Pylot a pour objectif de permettre aux étudiants et aux jeunes actifs de rentrer chez eux, de manière collaborative, fun et sécurisée (à pied, en bus, en tram, en vélo...).
+Pylot aims to allow students and young workers to return home, in a collaborative, fun and secure way (on foot, by bus, tram, bicycle ...).
 
-Les fonctionnalités :
+Fonctionnalities :
 
-- Créer un compte utilisateur sécurisé.
-- Personnaliser son profil.
-- Se géolocaliser.
-- Tracer un itinéraire.
-- Poster un trajet avec une adresse de départ et d'arrivée, une date et une heure.
+- Create a secure user account
+- Personalize your profile
+- Geolocate
+- Draw a route
+- Post a trip with a departure and arrival address, a date and a time
 
 ### Built With
 
