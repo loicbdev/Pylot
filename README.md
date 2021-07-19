@@ -30,7 +30,7 @@
 
 In web developer training at WILD CODE SCHOOL in Nantes, our group was entrusted with the mission of creating a web application allowing to connect people who want to go back home accompanied. This project took place for 6 weeks, in parallel with the lessons and in remote (due to the health situation).
 
-Pylot aims to allow students and young workers to return home, in a collaborative, fun and secure way (on foot, by bus, tram, bicycle ...).
+Pylot aims to allow students and young workers to move, in a collaborative, fun and secure way (on foot, by bus, tram, bicycle ...).
 
 Fonctionnalities :
 
